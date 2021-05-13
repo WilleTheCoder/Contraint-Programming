@@ -1,4 +1,0 @@
-n = 5;
-n_commercial = 13;
-n_residential = 12;
-point_distribution = [-5, -4, -3, 3, 4, 5];
