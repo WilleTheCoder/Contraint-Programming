@@ -1,0 +1,2 @@
+@echo off
+"C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin\java.exe" -XX:+UseSerialGC -server -cp "C:\WilleTheCoder\constraint\Solver library path\jacop-4.7.0.jar" -Xmx8G -Xss100M org.jacop.fz.Fz2jacop %*
